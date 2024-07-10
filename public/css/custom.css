@@ -1,0 +1,58 @@
+.alinearComponentes {
+    width: 90% !important;
+    margin: auto !important;
+}
+.alinearComponentesButton {
+    width: 100% !important;
+    margin: auto !important;
+}
+.alinearModal {
+    width: 100% !important;
+}
+.text-white{
+ color: black;
+}
+.alinearColumnsStatus {
+width: 5rem;
+margin-left: auto;
+margin-right: auto;
+}
+.alinearColumnsActions {
+    width: 7.5rem;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+.w-49 {
+    width: 200px;
+    }
+
+    .myy-53	{
+        margin-top: -60px;
+}
+.w-95e{
+    width:95px !important;
+}
+
+::-webkit-scrollbar {
+    width: 8px;     /* Tamaño del scroll en vertical */
+    background: #313131;
+    box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.2);
+    background-color: #313131;
+    overflow: auto;
+ 
+}  
+::-webkit-scrollbar-track:hover,
+::-webkit-scrollbar-track:active {
+  background: gray
+}
+::-webkit-scrollbar-thumb {
+    background: #313131;
+}
+
+/* Cambiamos el fondo y agregamos una sombra cuando esté en hover */
+::-webkit-scrollbar-thumb:hover {
+    background:  black;
+    box-shadow: 0 0 2px 1px rgba(100, 98, 98, 0.2);
+}
+
