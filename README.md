@@ -1,6 +1,7 @@
 # React + Vite
 
 Previous requirements
+
 1-npm 10.8.1
 
 2-v20.15.1
